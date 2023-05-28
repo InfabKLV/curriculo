@@ -52,3 +52,47 @@
 .linkzada_in{
     color: dodgerblue;
 }
+
+.topico1{
+    margin-left: 150px;
+    background-color: white;
+    margin-right: 250px;
+    padding: 20px 300px 50px 50px;
+    color: black;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.topico2{
+    margin: 20px 0px 0px 150px;
+    text-align: right;
+    margin-right: 150px;
+    background-color: white;
+    margin-right: 250px;
+    padding: 50px 50px 50px 300px;
+    color: black;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.topico3{
+    margin: 20px 0px 0px 150px;
+    background-color: white;
+    margin-right: 250px;
+    padding: 20px 300px 50px 50px;
+    color: black;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.topico4{
+    margin: 20px 0px 50px 150px;
+    text-align: right;
+    margin-right: 150px;
+    background-color: white;
+    margin-right: 250px;
+    padding: 50px 50px 50px 300px;
+    color: black;
+    border-radius: 10px;
+    font-weight: bold;
+}
