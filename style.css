@@ -1,0 +1,54 @@
+.titulo1{
+    color: whitesmoke;
+    text-decoration: underline;
+}
+
+.corpo{
+    background-color: black;
+    color: whitesmoke;
+}
+
+.principal{
+    text-align: center;
+}
+
+.info{
+    list-style-type: disc;
+}
+
+.electric{
+    max-width: 20px;
+}
+
+.photo{
+    max-width: 100px;
+}
+
+.pueq{
+    max-width: 30px;
+}
+
+.zap{
+    max-width: 20px;
+}
+
+.in{
+    max-width: 20px;
+}
+
+.gmail{
+    max-width: 30px;
+}
+
+.linkzada_gmail{
+    color: red;
+}
+
+.linkzada_zap{
+    color: green;
+
+}
+
+.linkzada_in{
+    color: dodgerblue;
+}
